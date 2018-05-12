@@ -1,10 +1,16 @@
 _repo: The-Battle-of-the-Falkland-Islands-Before-and-After_50265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50265-h/images/cover.jpg
 creator:
   author:
     agent_name: Spencer-Cooper, Henry Edmund Harvey
     gutenberg_agent_id: '45783'
     url: http://www.gutenberg.org/2009/agents/45783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50265#The-Battle-of-the-Falkland-Islands-Before-and-After
 gutenberg_issued: '2015-10-21'
 gutenberg_type: Text
 identifiers:
